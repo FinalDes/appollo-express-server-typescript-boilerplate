@@ -48,7 +48,7 @@
     "express": "^4.16.4",
     "graphql": "^0.13.2",
     "graphql-server-express": "^1.4.0",
-    "graphql-tools": "^4.0.3",
+    "graphql-tools": "^5.0.0",
     "helmet": "^3.14.0"
   },
   "jest": {
